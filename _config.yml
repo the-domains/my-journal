@@ -16,5 +16,8 @@ navigation:
   - name: Korean Palaces
     id: 97578bec-b2a9-4e33-9450-bc86ca742371
     type: content
+  - name: Attractions
+    id: 6d348894-3bc1-48da-b9a2-105ef4d88508
+    type: content
 title: Seoul Sightseeing
 description: Gyeongbuk Palace
