@@ -1,0 +1,14 @@
+layout_spectrum: 0.8789975226391107
+typography_spectrum: 0.2368581194896251
+color:
+  brandStrength: 0.5918641162570566
+  lightness: 0.2632836503908038
+  saturation: 0.013725237920880318
+  rhythmicContrast: 0.4016879207920283
+  brandColors:
+    - '#468966'
+    - '#FFF0A5'
+    - '#FFB03B'
+    - '#B64926'
+    - '#8E2800'
+name: My Journal
