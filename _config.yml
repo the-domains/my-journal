@@ -12,5 +12,9 @@ color:
     - '#3B28CC'
 layout_spectrum: 0.8789975226391107
 name: My Journal
+navigation:
+  - name: Korean Palaces
+    id: 97578bec-b2a9-4e33-9450-bc86ca742371
+    type: content
 title: Seoul Sightseeing
 description: Gyeongbuk Palace
