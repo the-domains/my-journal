@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-28T14:56:54.797Z'
+datePublished: '2016-08-28T14:59:49.559Z'
 sourcePath: _posts/2016-08-28-gyeonghuigung-palace-seoul.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-28T14:55:52.916Z'
+dateModified: '2016-08-28T14:59:41.894Z'
 title: 'Gyeonghuigung Palace, Seoul'
 publisher:
   name: Abe Sumalinog
@@ -26,10 +26,10 @@ I know this palace quite well because we use to take a walk around it right afte
 
 Since its restoration, visitors and tourists would come to see the place. Movies and TV dramas are being shoot inside the palace or around it as background. Yes, I have seen many times crews and some actors with their traditional Korean dresses and clothes getting ready for action.
 
-Every time we have a visitor, we would usually show this place and its surroundings. One can still see the thrones for kings and queens inside the main and bigger building at the middle of the palace. It was said that there were about 100 small and large buildings in the ground of this palace. Bringing our visitor to this place with accompanying bits and pieces of historical explanations still don't bore me up until this time ^^.
+Every time we have a visitor, we would usually show this place and its surroundings. One can still see the thrones for kings and queens inside the main and bigger building at the middle of the palace. It was said that there were about 100 small and large buildings in the ground of this palace. Bringing our visitors to this place with accompanying bits and pieces of historical explanations still don't bore me up until this time ^^.
 ![Designated stones of the King's officials](https://the-grid-user-content.s3-us-west-2.amazonaws.com/86d4aa68-a01d-4f11-a08b-af9fe8b4492e.jpg)
 
-What I like most in this palace is its sense of serenity. That's probably because it is located away from the main roads of the bustling Seoul life. Another reason might also because it is close to a hill that protects it from noise and gives it a great and greenish backdrop.
+What I like most in this palace is its sense of serenity. That's probably because it is located away from the main roads of the bustling Seoul City life. Another reason might also because it is close to a hill that protects it from noise, which also gives it a fantastic greenish backdrop.
 
 Actually, the literal translation for 'gyeonghuigung' means 'palace of serene harmony'.
 
@@ -43,7 +43,7 @@ Gyeonghuigung was built in 1616\. It is the least visited among Seoul's Five Gra
 
 There were about ten kings of Joseon Dynasty who took shelter at this very place, from King Injo to King Cheoljong. During the Japanese occupation, Gyeonghuigung Palace was burnt down and a school for Japanese students was built on top of it.
 
-In the 1990s the Korean government took the initiative to reconstruct the 'Five Grand Palaces' located in Seoul area. For various reasons, it was said that only around 30 percent of this palace was rebuilt.
+In the 1990s, the Korean government took the initiative to reconstruct the 'Five Grand Palaces' located in Seoul area. For various reasons, it was said that only around 30 percent of this palace was rebuilt.
 
 Gyeonghuigung was completed in the 12th year of Gwanghaegun's reign in 1620\. The completed palace was composed of more than 100 halls but most got burnt down during the two separate fires, during the reign of King Sunjo in 1829 and during the reign of King Gojong. The remaining halls were destroyed during the Japanese occupation and where a Japanese school was built on the same ground instead.
 ![Sideview of Gyeonghuigung Palace](https://the-grid-user-content.s3-us-west-2.amazonaws.com/57db0865-bca5-4e7e-9a11-b6311f843be1.jpg)
