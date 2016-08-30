@@ -1,16 +1,16 @@
 ---
-datePublished: '2016-08-28T14:28:04.489Z'
+datePublished: '2016-08-28T14:29:22.224Z'
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-28T14:27:25.542Z'
+dateModified: '2016-08-28T14:29:22.088Z'
 title: 'Gyeonghuigung Palace, Seoul'
 publisher:
   name: Abe Sumalinog
 description: Gyeonghuigung Palace (경희궁)
-starred: false
 sourcePath: _posts/2016-08-28-gyeonghuigung-palace-seoul.md
+starred: false
 url: gyeonghuigung-palace-seoul/index.html
 _type: Blurb
 
