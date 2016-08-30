@@ -1,15 +1,15 @@
 ---
-datePublished: '2016-08-28T14:35:11.465Z'
+datePublished: '2016-08-28T14:56:54.797Z'
+sourcePath: _posts/2016-08-28-gyeonghuigung-palace-seoul.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-28T14:35:11.231Z'
+dateModified: '2016-08-28T14:55:52.916Z'
 title: 'Gyeonghuigung Palace, Seoul'
 publisher:
   name: Abe Sumalinog
 description: Gyeonghuigung Palace (경희궁)
-sourcePath: _posts/2016-08-28-gyeonghuigung-palace-seoul.md
 starred: false
 url: gyeonghuigung-palace-seoul/index.html
 _type: Blurb
@@ -24,7 +24,7 @@ Gyeonghuigung Palace is located in Sodaemun District and is very close to Deoksu
 I know this palace quite well because we use to take a walk around it right after our lunch. This palace is small but it was much bigger and its land area much wider then. The whole place has been rebuilt because much of it has been destroyed and a Japanese school, Gyeongseong Middle School, was built above the ruins in 1908\.
 ![Gyeonghuigung Palace](https://the-grid-user-content.s3-us-west-2.amazonaws.com/06652e35-eb93-44f5-a855-48969e36ed49.jpg)
 
-Since its restoration, visitors and tourist would come to see the place. Movies and TV dramas are being shoot inside the palace or around it as background. Yes, I have seen many times crews and some actors with their traditional Korean dresses and clothes getting ready for action.
+Since its restoration, visitors and tourists would come to see the place. Movies and TV dramas are being shoot inside the palace or around it as background. Yes, I have seen many times crews and some actors with their traditional Korean dresses and clothes getting ready for action.
 
 Every time we have a visitor, we would usually show this place and its surroundings. One can still see the thrones for kings and queens inside the main and bigger building at the middle of the palace. It was said that there were about 100 small and large buildings in the ground of this palace. Bringing our visitor to this place with accompanying bits and pieces of historical explanations still don't bore me up until this time ^^.
 ![Designated stones of the King's officials](https://the-grid-user-content.s3-us-west-2.amazonaws.com/86d4aa68-a01d-4f11-a08b-af9fe8b4492e.jpg)
