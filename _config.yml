@@ -1,4 +1,3 @@
-layout_spectrum: 0.8789975226391107
 typography_spectrum: 0.2368581194896251
 color:
   brandStrength: 0.5918641162570566
@@ -11,4 +10,17 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
+layout_spectrum: 0.8789975226391107
 name: My Journal
+navigation:
+  - name: Korean Palaces
+    id: 97578bec-b2a9-4e33-9450-bc86ca742371
+    type: content
+  - name: Attractions
+    id: 6d348894-3bc1-48da-b9a2-105ef4d88508
+    type: content
+  - name: Mountains
+    id: b1c912e7-f579-4904-b802-f09746dd35ff
+    type: content
+title: Seoul Sightseeing
+description: Gyeongbuk Palace
