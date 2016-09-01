@@ -1,9 +1,12 @@
 ---
-datePublished: '2016-08-30T12:39:08.170Z'
+datePublished: '2016-08-30T12:48:32.712Z'
+sourcePath: >-
+  _posts/2016-08-30-i-climbed-or-hiked-inwangsan-mountain-early-spring-last-year.md
 inFeed: true
+hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-30T12:39:07.293Z'
+dateModified: '2016-08-30T12:48:31.877Z'
 title: ''
 publisher:
   name: Abe Sumalinog
@@ -11,9 +14,6 @@ description: >-
   I climbed or hiked Inwangsan Mountain early spring last year with my
   colleagues. It was part of our outing activity to see historical sites
   especially those related with people who fights for human freedom.
-sourcePath: >-
-  _posts/2016-08-30-i-climbed-or-hiked-inwangsan-mountain-early-spring-last-year.md
-hasPage: true
 starred: false
 url: i-climbed-or-hiked-inwangsan-mountain-early-spring-last-year/index.html
 _type: Article
@@ -43,12 +43,14 @@ The mountain's name literally means "mountain of a generous king" in Korean lang
 You can obviously observe the granite boulders showing off at the sides and piling up on top of this mountain.  
 These granite boulds have various and interesting shapes and forms. Normally, Koreans, just like most humans throughout the world would do, associate some shapes to images and create meanings in them.  
 For example, there are granite rocks that they call train rock (kicha bawi), skirt rock (chima bawi), hat rock (moha bawi), among hundreds of shapes and forms that one can associate and create meaning with.  
-That makes hiking this mountain an interesting experience aside from the nice view of Seoul and the surrounding districts. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/68f39115-53bb-42cc-a7e6-79e89b05b06b.jpg)
+That makes hiking this mountain an interesting experience aside from the nice view of Seoul and the surrounding districts.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/68f39115-53bb-42cc-a7e6-79e89b05b06b.jpg)
 
 #### **Artists, Fortress, and Kings**
 
 Inwangsan is popular not only among its hikers who can have a great view of Seoul and its surrounding districts, but since time immemorial. Famous painters depict this mountain in their paintings where you can find in many museums established in Seoul.  
-For example, the famous painter Jeong Seon who painted "Inwang jesaekdo" (translated as "After the rain at Mount Inwang"). The painting was painted during the reign of King Yeongjo of Joseon Dynasty in 1751\. You can find this great painting at Ho-Am Art Museum in Yongin, Gyeonggi Province. ![View of Seoul from Inwangsan](https://the-grid-user-content.s3-us-west-2.amazonaws.com/41ace45a-affa-441c-8cfc-67f494f37e86.jpg)
+For example, the famous painter Jeong Seon who painted "Inwang jesaekdo" (translated as "After the rain at Mount Inwang"). The painting was painted during the reign of King Yeongjo of Joseon Dynasty in 1751\. You can find this great painting at Ho-Am Art Museum in Yongin, Gyeonggi Province.
+![View of Seoul from Inwangsan](https://the-grid-user-content.s3-us-west-2.amazonaws.com/41ace45a-affa-441c-8cfc-67f494f37e86.jpg)
 
 In addition, the Fortress Walls of Seoul envelops Inwang Mountain where you can also find the tourist sites--Inwangsa (Inwang Temple) and Guksadang Shrine. Most temples attract foreign visitors, like myself, due to various reasons such as its sense of tranquility, divine presence... you can add more!  
 Guksadang is a shamanist shrine. This shrine houses the spirits of Joseon Dynasty's King Taejo and other generals. Guksadang was first built in Namsan Mountain (in 1395) but got destroyed during the war in 1925 and restored where it is located now.  
@@ -57,15 +59,17 @@ Thanks for reading through and hope you'll visit this blog more often to discove
 Have a great day!
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9ac358db-e028-407f-a9ce-a8fa85fb9171.jpg)
 
-**More Information for Inwangsan Mountain (인왕산, 서울)**Addres: San 3-1, Muak-dong, Jongno-gu, Seoul City  
+**More Information for Inwangsan Mountain (인왕산, 서울)**
+
+Address: San 3-1, Muak-dong, Jongno-gu, Seoul City  
 Inquiries: +82-2-731-1454~8 (Korean, English, Japanese, Chinese)  
 Website: [www.visitseoul.net][0]  
 **Hiking Directions:**  
-Take Gyeongbukgung Station-Seoul Subway Line 3, Exit 3\. Then go straigth ahead for about 90 meters to find Gyeongbukgung Bus Stop. Take Bus \#09 and then get off at Ogin Apartment complex. From here, it will be about 600 meters to Inwangsan Mountain.  
+Take Gyeongbukgung Station-Seoul Subway Line 3, Exit 3\. Then go straight ahead for about 90 meters to find Gyeongbukgung Bus Stop. Take Bus \#09 and then get off at Ogin Apartment complex. From here, it will be about 600 meters to Inwangsan Mountain.  
 **Hiking Courses:**  
 Course 1: From Gyeongbokgung Station to Muakjae Station  
 Course 2: From Dongnimmun Station to Gyeongbokgung Station  
 Course 3: From Muakjae Station to Gyeongbokgung Station  
-Surely, there are many points of origin and directions depending on your choices and point of origin or where you live or start from. 
+Surely, there are many points of origin and directions depending on your choices and point of origin or where you live or start from.
 
 [0]: http://www.visitseoul.net/
