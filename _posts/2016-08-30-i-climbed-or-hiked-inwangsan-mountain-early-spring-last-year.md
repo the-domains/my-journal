@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-08-30T12:48:32.712Z'
+datePublished: '2016-08-30T13:13:00.598Z'
 sourcePath: >-
   _posts/2016-08-30-i-climbed-or-hiked-inwangsan-mountain-early-spring-last-year.md
-inFeed: true
+inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-30T12:48:31.877Z'
+dateModified: '2016-08-30T13:12:59.691Z'
 title: ''
 publisher:
   name: Abe Sumalinog
@@ -16,7 +16,7 @@ description: >-
   especially those related with people who fights for human freedom.
 starred: false
 url: i-climbed-or-hiked-inwangsan-mountain-early-spring-last-year/index.html
-_type: Article
+_type: Blurb
 
 ---
 I climbed or hiked Inwangsan Mountain early spring last year with my colleagues. It was part of our outing activity to see historical sites especially those related with people who fights for human freedom.
